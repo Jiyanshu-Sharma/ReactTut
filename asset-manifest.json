@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactTut/static/css/main.34ad6802.css",
+    "main.js": "/ReactTut/static/js/main.ccde12b4.js",
+    "index.html": "/ReactTut/index.html",
+    "main.34ad6802.css.map": "/ReactTut/static/css/main.34ad6802.css.map",
+    "main.ccde12b4.js.map": "/ReactTut/static/js/main.ccde12b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34ad6802.css",
+    "static/js/main.ccde12b4.js"
+  ]
+}

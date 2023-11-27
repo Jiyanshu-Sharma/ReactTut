@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.34ad6802.css","mappings":"AAAA,WACI,qBAAuB,CACvB,SACJ,CCHA,WACE,WACF","sources":["components/books.css","App.css"],"sourcesContent":[".container { \r\n    border: 2px solid black;\r\n    width: 40%;\r\n}",".searchbox { \n  margin: 10px;\n}"],"names":[],"sourceRoot":""}
